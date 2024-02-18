@@ -1,4 +1,25 @@
 {
     "name": "rn/database",
-    "require": {}
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Yakovlev",
+            "email": "forcscart@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/AlexeyRK/aa_database/",
+    "keywords": [],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+
+    },
+    "autoload-dev": {
+
+    }
 }
